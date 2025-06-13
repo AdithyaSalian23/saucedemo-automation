@@ -5,7 +5,9 @@ This project is an automated **end-to-end test** for the [SauceDemo](https://www
 ---
 
 ## 🎥 Demo Video
-![Demo](screen-capture (1).gif)
+▶️ A short demo video is included in the repository to show the test in action. Check out `screen-capture (1).gif` to see it run!
+
+---
 
 ## 📌 What It Does
 
